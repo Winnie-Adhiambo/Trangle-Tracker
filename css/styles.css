@@ -13,4 +13,24 @@ ul li{
   text-decoration-color: purple;
   text-decoration-style: wavy;
   list-style-type: none;
+  font-size: 35;
+  text-decoration: none;
+}
+p{
+  color: blue;
+  text-decoration-color: pink;
+font-size: 30;
+}
+li{
+  list-style-type: none;
+  color: green;
+  font-size: 30;
+}
+h2{
+  color:purple;
+  font-size: 40;
+}
+h1{
+  color:grey;
+  font-size: 40;
 }
