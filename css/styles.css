@@ -1,11 +1,16 @@
 body{
-  background-color:blue;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpfeh9jCltfUNR8hRTh7ch00lnU4tLGoIWrGPt7c6duBTQU6X0g);
+  background-color:yellow;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpfeh9jCltfUNR8hRTh7ch00lnU4tLGoIWrGPt7c6duBTQU6X0g");
 background-position:center;
 text-align: center;
 background-repeat: no-repeat;
+width: 400 px auto;
+height: 400 px auto;
+background-size: contain;
+
 }
 ul li{
   text-decoration-color: purple;
   text-decoration-style: wavy;
+  list-style-type: none;
 }
