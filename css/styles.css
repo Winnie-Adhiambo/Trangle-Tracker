@@ -34,3 +34,10 @@ h1{
   color:grey;
   font-size: 40;
 }
+nav> ul> li> a{
+  text-align: right;
+  text-decoration: none;
+display: inline-block;
+
+
+}
