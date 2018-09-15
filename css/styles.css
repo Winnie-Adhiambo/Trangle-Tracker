@@ -1,6 +1,6 @@
 body{
-  background-color:yellow;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpfeh9jCltfUNR8hRTh7ch00lnU4tLGoIWrGPt7c6duBTQU6X0g");
+background-color:yellow;
+background-image: url("https://saviaviajes.com/wp-content/uploads/2018/01/Alabama-1.jpg");
 background-position:center;
 text-align: center;
 background-repeat: no-repeat;
@@ -40,4 +40,9 @@ nav> ul> li> a{
 display: inline-block;
 
 
+}
+button{
+  color:grey;
+  border-color: inherit;
+  background-color: orange solid;
 }
